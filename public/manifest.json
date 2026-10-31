@@ -1,0 +1,25 @@
+{
+  "name": "Shivam Health Tracker",
+  "short_name": "Shivam Tracker",
+  "description": "Shivam's personal muscle gain, nutrition & fitness tracker",
+  "start_url": "/shivam-health-tracker/",
+  "scope": "/shivam-health-tracker/",
+  "display": "standalone",
+  "background_color": "#0a0f1a",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "shivam-avatar.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "shivam-avatar.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
